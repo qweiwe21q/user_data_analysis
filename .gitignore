@@ -1,0 +1,34 @@
+# 虚拟环境
+bin/
+lib/
+share/
+include/
+pyvenv.cfg
+venv/
+.venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 输出文件
+output.txt
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 环境变量 / 密钥
+.env
+.env.*
